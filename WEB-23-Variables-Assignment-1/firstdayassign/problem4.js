@@ -1,0 +1,26 @@
+let x= "               |  🅡🅔🅟🅞🅡🅣 🅒🅐🅡🅓  |           "
+console.log(x);
+console.log("\n");
+const name="Name:Subhashree Sahoo";
+const school="School:Masai School";
+const grade="Grade:A";
+const section="Section:C";
+const rollno="Rollno:41";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log("\n");
+const subject="Subject";
+const marks="Marks";
+console.log(subject," "," ",marks);
+let eng= "English";
+let maths="Mathematics";
+let comp="Computers";
+let engmarks="75";
+let mathsmarks="99";
+let compmarks="41";
+console.log(eng," "," ",engmarks);
+console.log(maths,mathsmarks);
+console.log(comp ," ",compmarks);
